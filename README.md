@@ -23,10 +23,10 @@ pip install -r requirements.txt
 
 ngrok http 8000
 Shu bilan sizga public URL beriladi, masalan:
-https://cc5fb6c1a609.ngrok-free.app
+- https://cc5fb6c1a609.ngrok-free.app
 
 Bu URL’ni views.py ichidagi NGROK_URL ga yozing:
-NGROK_URL = "https://cc5fb6c1a609.ngrok-free.app"
+- NGROK_URL = "https://cc5fb6c1a609.ngrok-free.app"
 
 Shu bilan API webhook sizning lokal serveringizga ulanishi mumkin bo‘ladi.
 python manage.py runserver
@@ -36,7 +36,7 @@ http://127.0.0.1:8000/run/
 
 Console’da quyidagilar chiqadi:
 
-Birinchi qism kodi (part1)
-Ikkinchi qism kodi (part2) webhook orqali keladi
-Birlashtirilgan kod (full_code)
-Yakuniy xabar (msg)
+- Birinchi qism kodi (part1)
+- Ikkinchi qism kodi (part2) webhook orqali keladi
+- Birlashtirilgan kod (full_code)
+- Yakuniy xabar (msg)
