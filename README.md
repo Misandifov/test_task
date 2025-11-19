@@ -7,8 +7,8 @@ Bu loyiha test API bilan ishlashni ko‘rsatadi:
 
 ---
 
-git clone <YOUR_REPO_URL>
-cd <YOUR_PROJECT_DIR>
+git clone https://github.com/Misandifov/test_task.git
+cd test_task
 
 
 # Activate the virtual environment:
