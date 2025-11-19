@@ -8,6 +8,7 @@ Bu loyiha test API bilan ishlashni ko‘rsatadi:
 ---
 
 git clone https://github.com/Misandifov/test_task.git
+
 cd test_task
 
 
